@@ -30,7 +30,6 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 
 ### 🔭 I’m currently working on
 
-- [Fast Fourier Transforms (FFTs) on Field Programmable Gate Arrays (FPGAs)](https://github.com/NLeSC-AAA2/fft-synth-py)
 - [GPU acceleration of code computing radiative fluxes in planetary atmospheres](https://github.com/microhh/rte-rrtmgp-cpp)
 - [GPU programming lesson](https://github.com/carpentries-incubator/lesson-gpu-programming)
 
