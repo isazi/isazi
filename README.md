@@ -30,7 +30,7 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 
 ### 🔭 I’m currently working on
 
-- [GPU acceleration of code computing radiative fluxes in planetary atmospheres](https://github.com/microhh/rte-rrtmgp-cpp)
+- [ICPT Regional Climate Model](https://github.com/ICTP/RegCM)
 - [GPU programming lesson](https://github.com/carpentries-incubator/lesson-gpu-programming)
 - [Kernel Tuner Tutorial](https://github.com/benvanwerkhoven/kernel_tuner_tutorial/)
 
