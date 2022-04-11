@@ -30,6 +30,7 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 
 ### 🔭 I’m currently working on
 
+- [Full software HLT1 reconstruction sequence on GPU](https://gitlab.cern.ch/lhcb/Allen/)
 - [ICPT Regional Climate Model](https://github.com/ICTP/RegCM)
 - [GPU programming lesson](https://github.com/carpentries-incubator/lesson-gpu-programming)
 - [Kernel Tuner Tutorial](https://github.com/benvanwerkhoven/kernel_tuner_tutorial/)
