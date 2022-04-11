@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Who am I?
 
 Hey there, my name is Alessio and I am an Italian computer scientist living in the Netherlands.
-I currently live in Amsterdam where I work at the Netherlands eScience Center as an eScience Research Engineer.
+I currently live in Amsterdam where I work at the Netherlands eScience Center as a Research Software Engineer.
 I have a BSc and MSc in computer science from the University of L'Aquila, a MSc in computer science from the VU Amsterdam, and a PhD in computer science also from the VU.
 
 My research interests include auto-tuning and using Graphics Processing Units (GPUs) to accelerate scientific computation.
