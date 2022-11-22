@@ -44,7 +44,7 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 
 - [Website](http://alessio.sclocco.eu)
 - [Blog](https://isazi.net)
-- Mastodon: [@isazi@akademienl.social](https://akademienl.social/web/@isazi)
+- Mastodon: [@isazi@akademienl.social](https://akademienl.social/@isazi)
 - ORCID: [0000-0003-3278-0518](https://orcid.org/0000-0003-3278-0518)
 - Linkedin: [Alessio Sclocco](https://www.linkedin.com/in/alessiosclocco/)
 - Google [Scholar](https://scholar.google.com/citations?user=H84zmXcAAAAJ)
