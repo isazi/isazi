@@ -24,12 +24,14 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 ### 💼 Where did I work
 
 - [Netherlands eScience Center](https://www.esciencecenter.nl)
+- [UMC Utrecht](https://www.umcutrecht.nl/)
 - [Nanyang Technological University](https://www.ntu.edu.sg/)
 - [ASTRON](https://www.astron.nl)
 - [Vrije Universiteit Amsterdam](https://www.vu.nl)
 
 ### 🔭 I’m currently working on
 
+- [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner)
 - [Full software HLT1 reconstruction sequence on GPU](https://gitlab.cern.ch/lhcb/Allen/)
 - [GPU programming lesson](https://github.com/carpentries-incubator/lesson-gpu-programming)
 - [Kernel Tuner Tutorial](https://github.com/KernelTuner/kernel_tuner_tutorial/)
