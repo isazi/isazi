@@ -19,7 +19,7 @@ Hey there, my name is Alessio and I am an Italian computer scientist living in t
 I currently live in Amsterdam where I work at the Netherlands eScience Center as a Research Software Engineer.
 I have a BSc and MSc in computer science from the University of L'Aquila, a MSc in computer science from the VU Amsterdam, and a PhD in computer science also from the VU.
 
-My research interests include auto-tuning and using Graphics Processing Units (GPUs) to accelerate scientific computation.
+My research interests include high-performance and scientific computing, auto-tuning, and performance optimizations.
 
 ### 💼 Where did I work
 
@@ -33,6 +33,7 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 
 - [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner)
 - [Full software HLT1 reconstruction sequence on GPU](https://gitlab.cern.ch/lhcb/Allen/)
+- [KMM](https://github.com/NLeSC-COMPAS/kmm)
 - [GPU programming lesson](https://github.com/carpentries-incubator/lesson-gpu-programming)
 - [Kernel Tuner Tutorial](https://github.com/KernelTuner/kernel_tuner_tutorial/)
 
@@ -45,7 +46,7 @@ My research interests include auto-tuning and using Graphics Processing Units (G
 
 - [Website](http://alessio.sclocco.eu)
 - [Blog](https://isazi.net)
-- Mastodon: [@isazi@akademienl.social](https://akademienl.social/@isazi)
+- Mastodon: [@isazi@mast.hpc.social](https://mast.hpc.social/@isazi)
 - ORCID: [0000-0003-3278-0518](https://orcid.org/0000-0003-3278-0518)
 - Linkedin: [Alessio Sclocco](https://www.linkedin.com/in/alessiosclocco/)
 - Google [Scholar](https://scholar.google.com/citations?user=H84zmXcAAAAJ)
