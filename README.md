@@ -24,7 +24,6 @@ My research interests include high-performance and scientific computing, auto-tu
 ### 💼 Where did I work
 
 - [Netherlands eScience Center](https://www.esciencecenter.nl)
-- [UMC Utrecht](https://www.umcutrecht.nl/)
 - [Nanyang Technological University](https://www.ntu.edu.sg/)
 - [ASTRON](https://www.astron.nl)
 - [Vrije Universiteit Amsterdam](https://www.vu.nl)
