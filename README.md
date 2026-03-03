@@ -31,7 +31,6 @@ My research interests include high-performance and scientific computing, auto-tu
 ### 🔭 I’m currently working on
 
 - [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner)
-- [Full software HLT1 reconstruction sequence on GPU](https://gitlab.cern.ch/lhcb/Allen/)
 - [KMM](https://github.com/NLeSC-COMPAS/kmm)
 - [GPU programming lesson](https://github.com/carpentries-incubator/lesson-gpu-programming)
 - [Kernel Tuner Tutorial](https://github.com/KernelTuner/kernel_tuner_tutorial/)
@@ -47,6 +46,5 @@ My research interests include high-performance and scientific computing, auto-tu
 - [Blog](https://isazi.net)
 - Mastodon: [@isazi@mast.hpc.social](https://mast.hpc.social/@isazi)
 - ORCID: [0000-0003-3278-0518](https://orcid.org/0000-0003-3278-0518)
-- Linkedin: [Alessio Sclocco](https://www.linkedin.com/in/alessiosclocco/)
 - Google [Scholar](https://scholar.google.com/citations?user=H84zmXcAAAAJ)
 
